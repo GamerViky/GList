@@ -11,3 +11,7 @@
 ! GitHub pull requests: https://github.com/easylist/easylist/pulls
 
  ##quads-ad189295 quads-highlight-adblocked
+ ##wpquads_adblocker_check_2
+ ##wpquads_adblocker_check
+ ##quads-highlight-adblocked
+ 
