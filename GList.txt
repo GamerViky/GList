@@ -1,0 +1,14 @@
+[Adblock Plus 2.0]
+! Version: 20210714
+! Title: EasyList
+! Last modified: 14 Jul 2021 05:39 UTC
+! Expires: Idk days (update frequency)
+! !
+! Please report any unblocked adverts or problems
+! in the forums (https://forums.lanik.us/)
+! or via e-mail (easylist@protonmail.com).
+! GitHub issues: https://github.com/easylist/easylist/issues
+! GitHub pull requests: https://github.com/easylist/easylist/pulls
+
+
+youtube.com##style-scope ytd-rich-grid-renderer
