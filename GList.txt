@@ -2,7 +2,7 @@
 ! Version: 20210829
 ! Title: GList
 ! Last modified: 29 Aug 2021 22:06 UTC
-! Expires: Idk days (update frequency)
+! Expires: 1 days (update frequency)
 
 leak.pt###quads-ad189295
  
