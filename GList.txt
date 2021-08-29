@@ -10,5 +10,4 @@
 ! GitHub issues: https://github.com/easylist/easylist/issues
 ! GitHub pull requests: https://github.com/easylist/easylist/pulls
 
-
-youtube.com##style-scope ytd-rich-grid-renderer
+ ##quads-ad189295 quads-highlight-adblocked
