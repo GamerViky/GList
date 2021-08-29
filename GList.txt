@@ -3,15 +3,6 @@
 ! Title: GList
 ! Last modified: 29 Aug 2021 22:01 UTC
 ! Expires: Idk days (update frequency)
-! !
-! Please report any unblocked adverts or problems
-! in the forums (https://forums.lanik.us/)
-! or via e-mail (easylist@protonmail.com).
-! GitHub issues: https://github.com/easylist/easylist/issues
-! GitHub pull requests: https://github.com/easylist/easylist/pulls
 
- ##quads-ad189295 quads-highlight-adblocked
- ##wpquads_adblocker_check_2
- ##wpquads_adblocker_check
- ##quads-highlight-adblocked
+leak.pt###quads-ad189295
  
