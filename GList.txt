@@ -4,9 +4,12 @@
 ! Last modified: 29 Aug 2021 22:06 UTC
 ! Expires: 1 days (update frequency)
 
+! Leak ads
 leak.pt###quads-ad189295
 
 ! Startpage ads on Vivaldi
 startpage.com###gcsa-top
 startpage.com##div.layout:nth-child(5) > div.layout-web.layout-web--dark:nth-child(2) > div.layout-web__body.layout-web__body--desktop:nth-child(2) > div.layout-web__mainline:first-child > div.show-results:last-child > div.mainline-results--dark:nth-child(2) > div.mainline-results.mainline-results__web > section.w-gl.w-gl--desktop.w-gl--dark:nth-child(5) > h3.w-gl__label:first-child
  
+! Canva cookie notice
+canva.com##div._3s95l-a-FwlbU1kPa_nq8J
