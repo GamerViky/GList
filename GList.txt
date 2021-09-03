@@ -1,11 +1,12 @@
 [Adblock Plus 2.0]
 ! Version: 20210829b
 ! Title: GList
-! Last modified: 29 Aug 2021 22:06 UTC
+! Last modified: 03 Sep 2021 10:54 UTC
 ! Expires: 1 days (update frequency)
 
 ! Leak ads
 leak.pt###quads-ad189295
+##.quads-highlight-adblocked.quads-ad210904
 
 ! Startpage ads on Vivaldi
 startpage.com###gcsa-top
