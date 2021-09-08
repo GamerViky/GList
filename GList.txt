@@ -7,6 +7,7 @@
 ! Leak ads
 leak.pt###quads-ad189295
 ##.quads-highlight-adblocked.quads-ad210904
+##.quads-highlight-adblocked.quads-ad217422
 
 ! Startpage ads on Vivaldi
 startpage.com###gcsa-top
