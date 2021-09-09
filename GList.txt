@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 20210829b
+! Version: 20210909b
 ! Title: GList
-! Last modified: 03 Sep 2021 10:54 UTC
+! Last modified: 09 Sep 2021 03:24 UTC
 ! Expires: 1 days (update frequency)
 
 ! Leak ads
@@ -18,3 +18,6 @@ canva.com##div._3s95l-a-FwlbU1kPa_nq8J
 
 ! HiMovies Annoying Warning
 ##.mb-3.alert
+
+! Anti Content Blocker
+@@||canyoublockit.com^$ghide
