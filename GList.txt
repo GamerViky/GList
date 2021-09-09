@@ -19,5 +19,5 @@ canva.com##div._3s95l-a-FwlbU1kPa_nq8J
 ! HiMovies Annoying Warning
 ##.mb-3.alert
 
-! Anti Content Blocker
+! Anti Content Block
 @@||canyoublockit.com^$ghide
